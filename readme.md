@@ -1,6 +1,6 @@
 # X Clone
 
-A responsive frontend recreation of the X (formerly Twitter) home timeline. It is built as a UI practice project using plain HTML and Tailwind CSS.
+A responsive frontend recreation of the X (formerly Twitter) home timeline. It is built as a UI practice project using plain HTML and Tailwind CSS. It's one of my most favourite projects and I Love It.
 
 ## Preview
 
